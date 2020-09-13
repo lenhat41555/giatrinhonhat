@@ -1,0 +1,13 @@
+C:\LN\giatrinhonhat\bin\Debug\netcoreapp3.1\giatrinhonhat.exe
+C:\LN\giatrinhonhat\bin\Debug\netcoreapp3.1\giatrinhonhat.deps.json
+C:\LN\giatrinhonhat\bin\Debug\netcoreapp3.1\giatrinhonhat.runtimeconfig.json
+C:\LN\giatrinhonhat\bin\Debug\netcoreapp3.1\giatrinhonhat.runtimeconfig.dev.json
+C:\LN\giatrinhonhat\bin\Debug\netcoreapp3.1\giatrinhonhat.dll
+C:\LN\giatrinhonhat\bin\Debug\netcoreapp3.1\giatrinhonhat.pdb
+C:\LN\giatrinhonhat\obj\Debug\netcoreapp3.1\giatrinhonhat.csprojAssemblyReference.cache
+C:\LN\giatrinhonhat\obj\Debug\netcoreapp3.1\giatrinhonhat.AssemblyInfoInputs.cache
+C:\LN\giatrinhonhat\obj\Debug\netcoreapp3.1\giatrinhonhat.AssemblyInfo.cs
+C:\LN\giatrinhonhat\obj\Debug\netcoreapp3.1\giatrinhonhat.csproj.CoreCompileInputs.cache
+C:\LN\giatrinhonhat\obj\Debug\netcoreapp3.1\giatrinhonhat.dll
+C:\LN\giatrinhonhat\obj\Debug\netcoreapp3.1\giatrinhonhat.pdb
+C:\LN\giatrinhonhat\obj\Debug\netcoreapp3.1\giatrinhonhat.genruntimeconfig.cache
